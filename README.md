@@ -9,10 +9,10 @@ Aplikasi **Student Directory** adalah aplikasi Android yang digunakan untuk mend
 ## Screenshots
 *Catatan: Berikut adalah 4 halaman utama dari fitur CRUD aplikasi ini.*
 
-![Halaman Utama](screenshots/home.png)
-![Halaman Form](screenshots/form.png)
-![Halaman Search](screenshots/search.png)
-![Dialog Hapus](screenshots/delete.png)
+![Halaman Utama](screenshots/home.jpg)
+![Halaman Form](screenshots/form.jpg)
+![Halaman Search](screenshots/search.jpg)
+![Dialog Hapus](screenshots/delete.jpg)
 
 ## Metode Penyimpanan yang Digunakan
 Aplikasi ini menggunakan **Room Database** (yang merupakan lapisan abstraksi dari SQLite).
